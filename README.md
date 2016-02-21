@@ -2,7 +2,7 @@
 
 ### User Stories
 
-- I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
+- I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: June 12, 2016)
 
 - If it does, it returns both the Unix timestamp and the natural language form of that date.
 
@@ -10,9 +10,9 @@
 
 ## Example Usage:
 
-https://tranquil-lake-16661.herokuapp.com/june%2012%202016
+https://powerful-lowlands-26852.herokuapp.com/june%2012%202016
 
-https://tranquil-lake-16661.herokuapp.com/1465689600
+https://powerful-lowlands-26852.herokuapp.com/1465689600
 
 ## Example Output
 
