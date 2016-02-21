@@ -1,0 +1,32 @@
+{
+    "name": "timestamp-microservice",
+    "version": "1.0.0",
+    "description": "Convert natural date to timestamp or timestamp to natural date",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.13.1",
+        "moment": "^2.11.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ckm100/Timestamp-Microservice.git"
+    },
+    engines: {
+        "node": "0.12.0"
+    },
+    "keywords": [
+    "timestamp",
+    "microservice"
+  ],
+    "author": "Mawuli Kufogbe",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ckm100/Timestamp-Microservice/issues"
+    },
+    "homepage": "https://github.com/ckm100/Timestamp-Microservice"
+}
