@@ -7,6 +7,8 @@ var http = require("http"),
     decode,
     u;
 
+app.set("json spaces", 5);
+
 app.set('port', (process.env.PORT || 9000))
 
 app.use(express.static(path.join(__dirname, "public")));
